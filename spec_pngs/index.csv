@@ -1,0 +1,605 @@
+png_path,label,source_wav,start_sample
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s48000__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s64000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s80000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s96000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s112000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s128000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s144000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s160000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s176000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,176000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s192000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,192000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s208000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,208000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s224000__i11.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,224000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s240000__i12.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,240000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s256000__i13.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,256000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s272000__i14.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,272000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s288000__i15.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,288000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s304000__i16.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,304000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s320000__i17.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,320000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s336000__i18.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,336000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s352000__i19.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,352000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s368000__i20.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,368000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s384000__i21.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,384000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s400000__i22.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,400000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s416000__i23.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,416000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s432000__i24.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,432000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s448000__i25.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,448000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s464000__i26.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,464000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s480000__i27.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,480000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s496000__i28.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,496000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM__s512000__i29.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.08.57 PM.wav,512000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s16000__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s32000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s48000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s64000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s80000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s96000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s112000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s128000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s144000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s160000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s176000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,176000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s192000__i11.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,192000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s208000__i12.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,208000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s224000__i13.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,224000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s240000__i14.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,240000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s256000__i15.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,256000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s272000__i16.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,272000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s288000__i17.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,288000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s304000__i18.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,304000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s320000__i19.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,320000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM__s336000__i20.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.10.34 PM.wav,336000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s0__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,0
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s16000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s32000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s48000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s64000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s80000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s96000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s112000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s128000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s144000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s160000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s176000__i11.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,176000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s192000__i12.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,192000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s208000__i13.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,208000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s224000__i14.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,224000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM__s240000__i15.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.21 PM.wav,240000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s0__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,0
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s16000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s32000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s48000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s64000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s80000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s96000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM__s112000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.11.58 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s0__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,0
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s16000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s32000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s48000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s64000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s80000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s96000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s112000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s128000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s144000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM__s160000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.12.43 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s0__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,0
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s16000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s32000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s48000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s64000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s80000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s96000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s112000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s128000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s144000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s160000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s176000__i11.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,176000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s192000__i12.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,192000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s208000__i13.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,208000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s224000__i14.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,224000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM__s240000__i15.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.13.11 PM.wav,240000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s0__i0.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,0
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s16000__i1.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,16000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s32000__i2.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,32000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s48000__i3.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,48000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s64000__i4.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,64000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s80000__i5.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,80000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s96000__i6.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,96000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s112000__i7.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,112000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s128000__i8.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,128000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s144000__i9.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,144000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s160000__i10.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,160000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s176000__i11.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,176000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s192000__i12.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,192000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s208000__i13.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,208000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s224000__i14.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,224000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s240000__i15.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,240000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s256000__i16.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,256000
+spec_pngs/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM__s272000__i17.png,Idle wav,data/Idle wav/Screen Recording 2025-12-14 at 6.15.18 PM.wav,272000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM__s64000__i4.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.16.15 PM.wav,64000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s64000__i4.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,64000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s80000__i5.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,80000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s96000__i6.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,96000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM__s112000__i7.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.18.06 PM.wav,112000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.07 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 6.19.25 PM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM__s64000__i4.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-14 at 8.22.25 AM.wav,64000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM__s64000__i4.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.46.44 PM.wav,64000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s0__i0.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,0
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s16000__i1.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,16000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s32000__i2.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,32000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s48000__i3.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,48000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s64000__i4.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,64000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s80000__i5.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,80000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s96000__i6.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,96000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s112000__i7.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,112000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s128000__i8.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,128000
+spec_pngs/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM__s144000__i9.png,SerpBelt wav,data/SerpBelt wav/Screen Recording 2025-12-15 at 8.47.15 PM.wav,144000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s48000__i3.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,48000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s64000__i4.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,64000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s80000__i5.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,80000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM__s96000__i6.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.27.32 PM.wav,96000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s48000__i3.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,48000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s64000__i4.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,64000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s80000__i5.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,80000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s96000__i6.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,96000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s112000__i7.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,112000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s128000__i8.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,128000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s144000__i9.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,144000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s160000__i10.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,160000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s176000__i11.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,176000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s192000__i12.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,192000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s208000__i13.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,208000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s224000__i14.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,224000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s240000__i15.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,240000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM__s256000__i16.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.07 PM.wav,256000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s48000__i3.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,48000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s64000__i4.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,64000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s80000__i5.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,80000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s96000__i6.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,96000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s112000__i7.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,112000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s128000__i8.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,128000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s144000__i9.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,144000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s160000__i10.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,160000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM__s176000__i11.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-14 at 6.33.56 PM.wav,176000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.52.49 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s48000__i3.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,48000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s64000__i4.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,64000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s80000__i5.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,80000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s96000__i6.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,96000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s112000__i7.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,112000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s128000__i8.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,128000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s144000__i9.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,144000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s160000__i10.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,160000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s176000__i11.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,176000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s192000__i12.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,192000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s208000__i13.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,208000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM__s224000__i14.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.53.53 PM.wav,224000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s0__i0.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,0
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s16000__i1.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,16000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s32000__i2.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,32000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s48000__i3.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,48000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s64000__i4.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,64000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s80000__i5.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,80000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s96000__i6.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,96000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s112000__i7.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,112000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s128000__i8.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,128000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s144000__i9.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,144000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s160000__i10.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,160000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s176000__i11.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,176000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s192000__i12.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,192000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s208000__i13.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,208000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s224000__i14.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,224000
+spec_pngs/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM__s240000__i15.png,TransWhine wav,data/TransWhine wav/Screen Recording 2025-12-15 at 8.55.13 PM.wav,240000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM__s80000__i5.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.12 PM.wav,80000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s80000__i5.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,80000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s96000__i6.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,96000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s112000__i7.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,112000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s128000__i8.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,128000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM__s144000__i9.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.04.48 PM.wav,144000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.24 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s80000__i5.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,80000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s96000__i6.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,96000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s112000__i7.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,112000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s128000__i8.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,128000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s144000__i9.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,144000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s160000__i10.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,160000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s176000__i11.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,176000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM__s192000__i12.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.05.56 PM.wav,192000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s80000__i5.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,80000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s96000__i6.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,96000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s112000__i7.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,112000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s128000__i8.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,128000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s144000__i9.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,144000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s160000__i10.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,160000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s176000__i11.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,176000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s192000__i12.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,192000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s208000__i13.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,208000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s224000__i14.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,224000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s240000__i15.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,240000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s256000__i16.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,256000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s272000__i17.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,272000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM__s288000__i18.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.06.25 PM.wav,288000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.07.36 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s0__i0.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,0
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s16000__i1.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,16000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s32000__i2.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,32000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s48000__i3.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,48000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s64000__i4.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,64000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s80000__i5.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,80000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s96000__i6.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,96000
+spec_pngs/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM__s112000__i7.png,brakeswav,data/brakeswav/Screen Recording 2025-12-15 at 9.10.39 PM.wav,112000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s32000__i2.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,32000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s48000__i3.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,48000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s64000__i4.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,64000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s80000__i5.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,80000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s96000__i6.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,96000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s112000__i7.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,112000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM__s128000__i8.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.07 PM.wav,128000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.40 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.40 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.40 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.40 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM__s32000__i2.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.20.57 PM.wav,32000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.35 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.35 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.35 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.35 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM__s32000__i2.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM.wav,32000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM__s48000__i3.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.21.51 PM.wav,48000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.22.03 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.22.03 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.22.03 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.22.03 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-14 at 6.23.08 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-14 at 6.23.08 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s32000__i2.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,32000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s48000__i3.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,48000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s64000__i4.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,64000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s80000__i5.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,80000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s96000__i6.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,96000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s112000__i7.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,112000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s128000__i8.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,128000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s144000__i9.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,144000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s160000__i10.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,160000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM__s176000__i11.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.31.48 PM.wav,176000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s0__i0.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,0
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s16000__i1.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,16000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s32000__i2.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,32000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s48000__i3.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,48000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s64000__i4.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,64000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s80000__i5.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,80000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s96000__i6.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,96000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s112000__i7.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,112000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s128000__i8.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,128000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s144000__i9.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,144000
+spec_pngs/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM__s160000__i10.png,knock  wav,data/knock  wav/Screen Recording 2025-12-15 at 9.33.38 PM.wav,160000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM__s32000__i2.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM.wav,32000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM__s48000__i3.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.17.24 PM.wav,48000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.26.56 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.26.56 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.26.56 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.26.56 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s32000__i2.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,32000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s48000__i3.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,48000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s64000__i4.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,64000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s80000__i5.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,80000
+spec_pngs/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM__s96000__i6.png,power steering wav,data/power steering wav/Screen Recording 2025-12-14 at 6.34.43 PM.wav,96000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s32000__i2.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,32000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s48000__i3.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,48000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s64000__i4.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,64000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM__s80000__i5.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.03 PM.wav,80000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s32000__i2.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,32000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s48000__i3.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,48000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s64000__i4.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,64000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s80000__i5.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,80000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s96000__i6.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,96000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s112000__i7.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,112000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s128000__i8.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,128000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s144000__i9.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,144000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM__s160000__i10.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.44.48 PM.wav,160000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s0__i0.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,0
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s16000__i1.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,16000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s32000__i2.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,32000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s48000__i3.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,48000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s64000__i4.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,64000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s80000__i5.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,80000
+spec_pngs/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM__s96000__i6.png,power steering wav,data/power steering wav/Screen Recording 2025-12-15 at 8.45.45 PM.wav,96000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s64000__i4.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,64000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s80000__i5.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,80000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s96000__i6.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,96000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s112000__i7.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,112000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s128000__i8.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,128000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s144000__i9.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,144000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s160000__i10.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,160000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s176000__i11.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,176000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s192000__i12.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,192000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s208000__i13.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,208000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM__s224000__i14.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.37.44 PM.wav,224000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.15 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM__s64000__i4.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.38.35 PM.wav,64000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s64000__i4.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,64000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s80000__i5.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,80000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s96000__i6.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,96000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s112000__i7.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,112000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s128000__i8.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,128000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s144000__i9.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,144000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s160000__i10.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,160000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s176000__i11.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,176000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s192000__i12.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,192000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s208000__i13.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,208000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s224000__i14.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,224000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s240000__i15.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,240000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s256000__i16.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,256000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s272000__i17.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,272000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s288000__i18.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,288000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s304000__i19.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,304000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s320000__i20.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,320000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s336000__i21.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,336000
+spec_pngs/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM__s352000__i22.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-14 at 6.39.04 PM.wav,352000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s64000__i4.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,64000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM__s80000__i5.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.50.27 PM.wav,80000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s0__i0.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,0
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s16000__i1.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,16000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s32000__i2.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,32000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s48000__i3.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,48000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s64000__i4.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,64000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s80000__i5.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,80000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s96000__i6.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,96000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s112000__i7.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,112000
+spec_pngs/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM__s128000__i8.png,supercharger wav,data/supercharger wav/Screen Recording 2025-12-15 at 8.51.10 PM.wav,128000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s64000__i4.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,64000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM__s80000__i5.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.00 PM.wav,80000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s64000__i4.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,64000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s80000__i5.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,80000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s96000__i6.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,96000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM__s112000__i7.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.40.33 PM.wav,112000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.00 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s64000__i4.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,64000
+spec_pngs/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM__s80000__i5.png,suspension wav,data/suspension wav/Screen Recording 2025-12-14 at 6.41.38 PM.wav,80000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM__s64000__i4.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.35.39 PM.wav,64000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.36.19 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s0__i0.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,0
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s16000__i1.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,16000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s32000__i2.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,32000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s48000__i3.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,48000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s64000__i4.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,64000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s80000__i5.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,80000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s96000__i6.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,96000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s112000__i7.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,112000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s128000__i8.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,128000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s144000__i9.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,144000
+spec_pngs/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM__s160000__i10.png,suspension wav,data/suspension wav/Screen Recording 2025-12-15 at 9.37.04 PM.wav,160000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s32000__i2.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,32000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s48000__i3.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,48000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s64000__i4.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,64000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s80000__i5.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,80000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s96000__i6.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,96000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s112000__i7.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,112000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s128000__i8.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,128000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s144000__i9.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,144000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s160000__i10.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,160000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s176000__i11.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,176000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s192000__i12.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,192000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM__s208000__i13.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.22 PM.wav,208000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s32000__i2.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,32000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s48000__i3.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,48000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s64000__i4.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,64000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s80000__i5.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,80000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s96000__i6.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,96000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s112000__i7.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,112000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s128000__i8.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,128000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s144000__i9.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,144000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s160000__i10.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,160000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s176000__i11.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,176000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s192000__i12.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,192000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s208000__i13.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,208000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s224000__i14.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,224000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM__s240000__i15.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.35.54 PM.wav,240000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.36.34 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.36.34 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.36.34 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.36.34 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.36.46 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.36.46 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.36.46 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.36.46 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s32000__i2.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,32000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s48000__i3.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,48000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s64000__i4.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,64000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s80000__i5.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,80000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s96000__i6.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,96000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s112000__i7.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,112000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s128000__i8.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,128000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s144000__i9.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,144000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s160000__i10.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,160000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s176000__i11.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,176000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s192000__i12.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,192000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s208000__i13.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,208000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s224000__i14.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,224000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s240000__i15.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,240000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s256000__i16.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,256000
+spec_pngs/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM__s272000__i17.png,turbo wav,data/turbo wav/Screen Recording 2025-12-14 at 6.37.09 PM.wav,272000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s32000__i2.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,32000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s48000__i3.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,48000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s64000__i4.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,64000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s80000__i5.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,80000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s96000__i6.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,96000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM__s112000__i7.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.56.56 PM.wav,112000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s0__i0.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,0
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s16000__i1.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,16000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s32000__i2.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,32000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s48000__i3.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,48000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s64000__i4.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,64000
+spec_pngs/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM__s80000__i5.png,turbo wav,data/turbo wav/Screen Recording 2025-12-15 at 8.57.57 PM.wav,80000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.24.13 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.24.13 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.24.13 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.24.13 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM.wav,32000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.04 PM.wav,48000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,32000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,48000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s64000__i4.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,64000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s80000__i5.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,80000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s96000__i6.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,96000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s112000__i7.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,112000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s128000__i8.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,128000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s144000__i9.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,144000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM__s160000__i10.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-14 at 6.25.21 PM.wav,160000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,32000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,48000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s64000__i4.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,64000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s80000__i5.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,80000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s96000__i6.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,96000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s112000__i7.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,112000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM__s128000__i8.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.58.46 PM.wav,128000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,32000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,48000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s64000__i4.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,64000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s80000__i5.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,80000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM__s96000__i6.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 8.59.56 PM.wav,96000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,0
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,16000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,32000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,48000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s64000__i4.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,64000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s80000__i5.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,80000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s96000__i6.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,96000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s112000__i7.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,112000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s128000__i8.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,128000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s144000__i9.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,144000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s160000__i10.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,160000
+spec_pngs/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM__s176000__i11.png,twheel bearing wav,data/twheel bearing wav/Screen Recording 2025-12-15 at 9.01.38 PM.wav,176000
+spec_pngs/twheel bearing wav/Untitled__s0__i0.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,0
+spec_pngs/twheel bearing wav/Untitled__s16000__i1.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,16000
+spec_pngs/twheel bearing wav/Untitled__s32000__i2.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,32000
+spec_pngs/twheel bearing wav/Untitled__s48000__i3.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,48000
+spec_pngs/twheel bearing wav/Untitled__s64000__i4.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,64000
+spec_pngs/twheel bearing wav/Untitled__s80000__i5.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,80000
+spec_pngs/twheel bearing wav/Untitled__s96000__i6.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,96000
+spec_pngs/twheel bearing wav/Untitled__s112000__i7.png,twheel bearing wav,data/twheel bearing wav/Untitled.wav,112000

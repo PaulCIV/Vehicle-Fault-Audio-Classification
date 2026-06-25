@@ -1,0 +1,48 @@
+{
+  "run_id": "20251216_193220",
+  "paths": {
+    "data_dir": "data",
+    "synth_dir": "synthetic_specs",
+    "out_dir": "figures/cvae_experiment/20251216_193220"
+  },
+  "real": {
+    "total_windowed_clips_from_cnn_builder": 604,
+    "wavs_per_class_from_disk": {
+      "Idle wav": 7,
+      "SerpBelt wav": 7,
+      "TransWhine wav": 7,
+      "brakeswav": 7,
+      "knock  wav": 9,
+      "power steering wav": 6,
+      "supercharger wav": 7,
+      "suspension wav": 10,
+      "turbo wav": 7,
+      "twheel bearing wav": 7
+    }
+  },
+  "synthetic": {
+    "total_specs_available_on_disk": 3000,
+    "specs_per_class_available_on_disk": {
+      "Idle wav": 300,
+      "SerpBelt wav": 300,
+      "TransWhine wav": 300,
+      "brakeswav": 300,
+      "knock  wav": 300,
+      "power steering wav": 300,
+      "supercharger wav": 300,
+      "suspension wav": 300,
+      "turbo wav": 300,
+      "twheel bearing wav": 300
+    },
+    "cnn_reported_loaded_specs": 3000,
+    "transformer_reported_loaded_specs": 3000
+  },
+  "results": {
+    "cnn_before_acc": 0.2267,
+    "cnn_after_acc": 0.1954,
+    "transformer_before_acc": 0.3392,
+    "transformer_after_acc": 0.3143,
+    "cnn_delta": -0.03130000000000002,
+    "transformer_delta": -0.024899999999999978
+  }
+}

@@ -1,0 +1,18 @@
+Building dataset...
+Total clips: 604
+Class counts: Counter({0: 120, 2: 70, 3: 66, 8: 66, 6: 62, 9: 53, 4: 46, 7: 44, 1: 40, 5: 37})
+[OK] Loaded synthetic specs: 3000 from synthetic_specs/
+
+Fold 1
+[Fold 1] Train size after synth: 3402
+Fold 1 acc: 0.1584
+
+Fold 2
+[Fold 2] Train size after synth: 3403
+Fold 2 acc: 0.1443
+
+Fold 3
+[Fold 3] Train size after synth: 3403
+Fold 3 acc: 0.2836
+
+CNN GroupCV mean=0.1954 std=0.0626

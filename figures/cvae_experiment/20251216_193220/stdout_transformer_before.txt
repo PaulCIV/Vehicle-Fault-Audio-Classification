@@ -1,0 +1,16 @@
+/Users/paulclarkiv/PatternRec Final/venv/lib/python3.13/site-packages/torch/nn/modules/transformer.py:515: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /Users/runner/work/pytorch/pytorch/pytorch/aten/src/ATen/NestedTensorImpl.cpp:182.)
+  output = torch._nested_tensor_from_mask(
+Building dataset...
+Total clips: 604
+Class counts: Counter({0: 120, 2: 70, 3: 66, 8: 66, 6: 62, 9: 53, 4: 46, 7: 44, 1: 40, 5: 37})
+
+Fold 1
+Fold 1 acc: 0.4752
+
+Fold 2
+Fold 2 acc: 0.2786
+
+Fold 3
+Fold 3 acc: 0.2637
+
+Transformer GroupCV mean=0.3392 std=0.0964
